@@ -2,8 +2,6 @@
 
 An advanced asynchronous DNS scanner designed to find working DNS resolvers across various IP ranges. Built with performance and reliability in mind, featuring multiple IP generation strategies and real-time progress monitoring.
 
-**Author: Mojtaba Akhbari**
-
 ## Features
 
 - **High Performance**: Asynchronous scanning with configurable concurrency
